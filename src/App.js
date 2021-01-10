@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import { Document, Page, pdfjs } from "react-pdf";
-import testPdf from "./KENE oKoye1.pdf";
+import testPdf from "./KENE oKoyeEN.pdf";
 import './index.css'
 
 // More examples here
